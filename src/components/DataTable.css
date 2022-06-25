@@ -1,0 +1,15 @@
+.MuiDataGrid-root{
+    border: none !important;
+    background-color: #283E4C;
+  }
+  
+  .MuiDataGrid-columnSeparator--sideRight {
+    opacity: 0 !important;
+  }
+  
+  .MuiDataGrid-root,
+  .MuiTablePagination-root,
+  .MuiDataGrid-checkboxInput {
+    color: #fff !important;
+    font-size: 14px !important;
+  }
